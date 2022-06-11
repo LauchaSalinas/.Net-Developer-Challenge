@@ -1,0 +1,10 @@
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.deps.json
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.dll
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\bin\Debug\netstandard2.0\NetExam.pdb
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.AssemblyReference.cache
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfoInputs.cache
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfo.cs
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.dll
+C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
