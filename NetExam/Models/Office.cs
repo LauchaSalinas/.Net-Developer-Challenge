@@ -1,16 +1,18 @@
-﻿namespace NetExam.Dto
-{
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using NetExam.Abstractions;
 
-    public class OfficeSpecs
+namespace NetExam.Models
+{
+    internal class Office : IOffice
     {
         public string LocationName { get; }
         public string Name { get; }
-        public int MaxCapacity { get; }
+        public int MaxCapacity { get; set; }
         public IEnumerable<string> AvailableResources { get; }
 
-        public OfficeSpecs(string locationName, string name, int maxCapacity, IEnumerable<string> availableResources = null)
+        public Office(string locationName, string name, int maxCapacity, IEnumerable<string> availableResources = null)
         {
             if (string.IsNullOrWhiteSpace(locationName)) throw new ArgumentException(nameof(locationName));
             if (string.IsNullOrWhiteSpace(name)) throw new ArgumentException(nameof(name));

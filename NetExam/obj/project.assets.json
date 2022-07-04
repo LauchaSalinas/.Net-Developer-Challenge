@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj",
+      "projectUniqueName": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam\\NetExam.csproj",
       "projectName": "NetExam",
-      "projectPath": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj",
+      "projectPath": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam\\NetExam.csproj",
       "packagesPath": "C:\\Users\\lsali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam\\obj\\",
+      "outputPath": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

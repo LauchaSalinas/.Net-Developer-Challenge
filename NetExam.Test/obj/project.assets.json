@@ -5605,11 +5605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam.Test\\NetExam.Test.csproj",
+      "projectUniqueName": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam.Test\\NetExam.Test.csproj",
       "projectName": "NetExam.Test",
-      "projectPath": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam.Test\\NetExam.Test.csproj",
+      "projectPath": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam.Test\\NetExam.Test.csproj",
       "packagesPath": "C:\\Users\\lsali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam.Test\\obj\\",
+      "outputPath": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5630,8 +5630,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj": {
-              "projectPath": "C:\\Users\\laaau\\Dropbox\\Documentos\\Trabajo Programación\\Ejercicio para Developer Net 2\\NetExam\\NetExam.csproj"
+            "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam\\NetExam.csproj": {
+              "projectPath": "C:\\Users\\lsali\\Documents\\GitHub\\.Net-Developer-Challenge\\NetExam\\NetExam.csproj"
             }
           }
         }

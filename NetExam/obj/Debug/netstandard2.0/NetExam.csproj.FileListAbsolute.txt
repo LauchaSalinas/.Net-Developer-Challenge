@@ -8,3 +8,13 @@ C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer
 C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
 C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.dll
 C:\Users\laaau\Dropbox\Documentos\Trabajo Programación\Ejercicio para Developer Net 2\NetExam\obj\Debug\netstandard2.0\NetExam.pdb
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\bin\Debug\netstandard2.0\NetExam.deps.json
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\bin\Debug\netstandard2.0\NetExam.dll
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\bin\Debug\netstandard2.0\NetExam.pdb
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.AssemblyReference.cache
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfoInputs.cache
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.AssemblyInfo.cs
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.csproj.CoreCompileInputs.cache
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.dll
+C:\Users\lsali\Documents\GitHub\.Net-Developer-Challenge\NetExam\obj\Debug\netstandard2.0\NetExam.pdb

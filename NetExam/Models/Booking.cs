@@ -1,8 +1,11 @@
-﻿namespace NetExam.Dto
-{
-    using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using NetExam.Abstractions;
 
-    public class BookingRequest
+namespace NetExam.Models
+{
+    internal class Booking : IBooking
     {
         public string LocationName { get; }
         public string OfficeName { get; }
@@ -10,7 +13,7 @@
         public int Hours { get; }
         public string UserName { get; }
 
-        public BookingRequest(string locationName, string officeName, DateTime dateTime, int hours, string userName)
+        public Booking(string locationName, string officeName, DateTime dateTime, int hours, string userName)
         {
             if (string.IsNullOrWhiteSpace(locationName)) throw new ArgumentException(nameof(locationName));
             if (string.IsNullOrWhiteSpace(officeName)) throw new ArgumentException(nameof(officeName));

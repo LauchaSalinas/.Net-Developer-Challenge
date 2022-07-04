@@ -8,11 +8,11 @@
 
     public class OfficeRentalTests
     {
-        public const string LocationName = "Urbetrack";
-        public const string Neighborhood = "Almagro";
-        public const string OfficeName = "Sala Azul";
+        public const string LocationName = "LocationName";
+        public const string Neighborhood = "Neighborhood";
+        public const string OfficeName = "OfficeName";
         public const int OfficeMaxCapacity = 8;
-        public const string UserName = "ceo@urbetrack.com";
+        public const string UserName = "UserName@domain.com";
         public const int BookingHours = 2;
         public static DateTime BookingDate => new DateTime(2021, 1, 1, 9, 0, 0);
 

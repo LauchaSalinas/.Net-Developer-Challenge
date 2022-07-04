@@ -1,13 +1,16 @@
-﻿namespace NetExam.Dto
-{
-    using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using NetExam.Abstractions;
 
-    public class LocationSpecs
+namespace NetExam.Models
+{
+    internal class Location : ILocation
     {
-        public string Name { get; }
+        public string Name { get ; }
         public string Neighborhood { get; }
 
-        public LocationSpecs(string name, string neighborhood)
+        public Location(string name, string neighborhood)
         {
             if (string.IsNullOrWhiteSpace(name)) throw new ArgumentException(nameof(name));
             if (string.IsNullOrWhiteSpace(neighborhood)) throw new ArgumentException(nameof(neighborhood));
