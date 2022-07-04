@@ -1,8 +1,8 @@
-# Ejercicio de evaluaci?n de candidatos .NET
+# Ejercicio de evaluación de candidatos .NET
 
-## Introducci?n
+## Introducción
 
-*Se dispone de una cadena de locales de oficinas distribuidos por toda la ciudad. Las oficinas se alquilan por hora individualmente. Se necesita un sistema que administre las reservas optimizando el uso de cada oficina seg?n su capacidad y recursos disponibles (pizarra, proyector, acceso a internet, etc.).*
+*Se dispone de una cadena de locales de oficinas distribuidos por toda la ciudad. Las oficinas se alquilan por hora individualmente. Se necesita un sistema que administre las reservas optimizando el uso de cada oficina según su capacidad y recursos disponibles (pizarra, proyector, acceso a internet, etc.).*
 
 
 ## Funcionalidad requerida
@@ -32,7 +32,7 @@ Obtener un listado de reservas de una oficina.
 Obtener un listado de oficinas que coincidan con las especificaciones, ordenados por conveniencia.
 Las sugerencias tiene que permitir la capacidad necesaria y tener todos los recursos solicitados.
 Siempre es conveniente reservar una oficina en el barrio solicitado pero si no hay ninguna se pueden sugerir otros locales.
-Tambi?n es prioridad mantener libres las oficinas mas grandes y con mas recursos de los que se requieren.
+También es prioridad mantener libres las oficinas mas grandes y con mas recursos de los que se requieren.
 
 
 ## Proyecto
@@ -47,21 +47,21 @@ Los parametros de entrada se pasan mediante estos objetos.
 
 **NetExam.Test**
 
-Tests unitarios para validar la l?gica implementada.
+Tests unitarios para validar la lógica implementada.
 
 ## Resultado
 
-Se espera que el candidato haga una implementaci?n de las abstracciones propuestas para cumplir con la funcionalidad requerida y que pase todos los tests.
+Se espera que el candidato haga una implementación de las abstracciones propuestas para cumplir con la funcionalidad requerida y que pase todos los tests.
 
 No es necesario:
 - Incluir dependencias externas al proyecto.
 - Implementar una capa de persistencia de datos (todo se trabaja en memoria).
 - Modificar ninguna de las clases e interfaces existentes.
 
-Se considerar?:
-- Comprensi?n de la problem?tica planteada
-- Calidad de la soluci?n
-- Detecci?n de necesidades ocultas
+Se considerará:
+- Comprensión de la problemática planteada
+- Calidad de la solución
+- Detección de necesidades ocultas
 - Prolijidad de los entregables
 - Clean Code
 - Principios SOLID
@@ -69,5 +69,3 @@ Se considerar?:
 - Extensibilidad
 - Manejo de errores
 - Conceptos de Domain-Driven Design
-
-La entrevista t?cnica posterior consistir? en la defensa de esta soluci?n.
